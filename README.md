@@ -25,7 +25,7 @@ My world revolves around **financial data, quantitative models, and uncovering p
 
 ---
 
-## 🚀 Selected Works  
+## 🚀Projects Done  
 - **INFLATION DYNAMICS IN INDIA: HEATMAP ANALYSIS**
 
 ---
