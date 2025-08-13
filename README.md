@@ -30,8 +30,7 @@ My world revolves around **financial data, quantitative models, and uncovering p
 
 ---
 
-## 📬 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/joshni-s-694ab0280)    
+## 📬 Let’s Connect     
 📧 **Email:** joshni1403@gmail.com 
 
 ---
