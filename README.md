@@ -27,6 +27,7 @@ My world revolves around **financial data, quantitative models, and uncovering p
 
 ## 🚀Projects Done  
 - **INFLATION DYNAMICS IN INDIA: HEATMAP ANALYSIS**
+  (https://github.com/Joshni1403/INFLATION-DYNAMICS-IN-INDIA-HEATMAP-ANALYSIS-capstone-project-.git)
 
 ---
 
