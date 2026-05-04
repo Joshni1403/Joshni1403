@@ -3,8 +3,7 @@
 > *Data tells a story and I'm interested in finding a plot..*  
 
 ## 👩‍💻 Who Am I?  
-I’m **JOSHNI S**, a curious mind who is currently immersed in my **Master’s in Econometrics & Financial Technology** at **Centre for Budget Studies, CUSAT**.  
-My world revolves around **financial data, quantitative models, and uncovering patterns that matter**.  
+I’m **JOSHNI S**, a curious mind where my world revolves around **financial data, quantitative models, and uncovering patterns that matter**.  
 
 ---
 
@@ -25,9 +24,26 @@ My world revolves around **financial data, quantitative models, and uncovering p
 
 ---
 
-## 🚀Projects Done  
-- **INFLATION DYNAMICS IN INDIA: HEATMAP ANALYSIS**
-  (https://github.com/Joshni1403/INFLATION-DYNAMICS-IN-INDIA-HEATMAP-ANALYSIS-capstone-project-.git)
+Welcome! This repository showcases my work in econometrics, data analysis, and financial research.
+
+---
+
+## 🔹 Projects
+
+### 📌 Inflation Heatmap Analysis
+
+* Analyzed inflation trends across Indian states
+* Applied data visualization techniques
+* **Tools:** Python, Pandas, Matplotlib
+* 🔗 **View Project:** https://github.com/Joshni1403/INFLATION-DYNAMICS-IN-INDIA-HEATMAP-ANALYSIS-capstone-project-.git
+
+---
+### 📌 ESG and Firm Performance Study
+
+* Studied impact of ESG scores on firm value
+* Applied regression techniques
+* **Tools:** Econometrics, Data Analysis
+* 🔗 **View Project:** https://github.com/Joshni1403/MSc.-Final-Year-Project-.git
 
 ---
 
